@@ -1,3 +1,4 @@
 # myHelloWorld
 My first repository
-First modified
+
+<img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/lv4823/myHelloWorld">
